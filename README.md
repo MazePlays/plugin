@@ -1,5 +1,6 @@
 <?php
 
 
+DevCraft /is gay
 
-Class protect extends pluginbase{
+He is a child molester//
